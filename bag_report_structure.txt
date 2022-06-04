@@ -1,0 +1,8 @@
+1) Id
+2) Summary
+3) Description
+4) Steps to reproduce
+5) Severity 
+6) priority[D[D[D[D[D[D[P[C[C[C[C[C[C[C
+7) Attachments
+8) Comments
