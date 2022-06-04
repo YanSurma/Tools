@@ -1,0 +1,8 @@
+Check list structure:
+1) Id
+2) Test
+3) Actual result 
+4) Expected result
+5) Status
+6) Comments
+
