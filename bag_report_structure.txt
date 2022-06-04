@@ -3,6 +3,6 @@
 3) Description
 4) Steps to reproduce
 5) Severity 
-6) priority[D[D[D[D[D[D[P[C[C[C[C[C[C[C
+6) priority
 7) Attachments
 8) Comments
